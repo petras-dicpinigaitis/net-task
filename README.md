@@ -30,7 +30,7 @@ If you know a nice library/framework that can make your life easier use it!
 
 ### API:
 
-How to get weather data: https://metasite-weather-api.herokuapp.com/index.html  
+How to get weather data: https://weather-api.m3tasite.net/index.html  
 Use username “meta” and password “site” for authorization.
 
 ### Requirements:
